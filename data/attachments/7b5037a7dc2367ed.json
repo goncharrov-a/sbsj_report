@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Сергей Али",
+    "lastName": "Елена",
+    "patronymic": "-Иван",
+    "birthDate": "2002-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa227.test4@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "570137799964",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "4789",
+      "number": "393661",
+      "dateIssued": "2019-12-18T00:00:00.000",
+      "issuerCode": "779-655",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

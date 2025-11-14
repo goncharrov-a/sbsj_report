@@ -1,0 +1,65 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 2033,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/contract/confirm",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "f56ce786-6b0f-4ad5-9e65-2dddf790a623",
+      "firstName": "Сергей",
+      "lastName": "Петров",
+      "patronymic": "Михайлович",
+      "disabilityGroup": null,
+      "phone": "+7 (900) 000-00-00",
+      "email": "aqa@test.ru",
+      "birthDate": "2000-01-01T00:00:00.000",
+      "cachedUser": {
+        "id": "d5591984-d759-40d7-9d25-446b9dc93181",
+        "calculation": 240.0,
+        "debt": 300000.0,
+        "policyStartDate": "2025-11-16T00:33:02",
+        "birthDate": null,
+        "gender": "M",
+        "isPartnerLink": null,
+        "paymentPeriodicity": "MONTHLY",
+        "extremalSport": true,
+        "term": 10
+      },
+      "inn": "129384542731",
+      "drivingLicense": null,
+      "placeOfBirth": null,
+      "snils": "373-731-929 03",
+      "passport": {
+        "id": "d20f35cd-94e8-456d-8f04-708a64f0c8e9",
+        "serial": "0001",
+        "number": "000001",
+        "dateIssued": "2020-01-01",
+        "issuerCode": "777-777",
+        "statusActive": true,
+        "issuedBy": "ГУ МВД РОССИИ"
+      },
+      "actualAddress": {
+        "id": "a9f089be-5bb2-472e-bfe5-8717e6e1bce2",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "ACTUAL",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "postAddress": {
+        "id": "0b678617-461e-44a6-9bbf-d35f4d088b4f",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "POST",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "policy": null,
+      "addresses": null,
+      "tempPolicyUser": null,
+      "externalId": "04af9afc-b4eb-4634-a15b-9441cf2665a0",
+      "noPatronymic": false,
+      "dispatcherResponse": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

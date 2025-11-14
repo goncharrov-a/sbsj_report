@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Анна",
+    "lastName": "Анна",
+    "patronymic": "Пётр",
+    "birthDate": "2002-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "",
+    "snils": "373-731-929 03",
+    "inn": "251874641777",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "2568",
+      "number": "134152",
+      "dateIssued": "2019-04-24T00:00:00.000",
+      "issuerCode": "377-497",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

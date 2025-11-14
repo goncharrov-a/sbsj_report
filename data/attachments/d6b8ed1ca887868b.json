@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Никита Али",
+    "lastName": "John",
+    "patronymic": "Ольга Али",
+    "birthDate": "2002-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa628.test4@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "331147357522",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "7697",
+      "number": "704577",
+      "dateIssued": "2021-10-27T00:00:00.000",
+      "issuerCode": "420-710",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}
