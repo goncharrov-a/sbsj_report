@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Елена Николаев",
+    "lastName": "Иван  Иванов",
+    "patronymic": "Сергей-Мирон",
+    "birthDate": "2001-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa375.test8@mail.com",
+    "snils": "373-731-929 03",
+    "inn": "981015054955",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "1176",
+      "number": "129379",
+      "dateIssued": "2022-09-02T00:00:00.000",
+      "issuerCode": "123-899",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

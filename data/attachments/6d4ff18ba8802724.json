@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Анна",
+    "lastName": "Богдан Николаев",
+    "patronymic": "Богдан Али",
+    "birthDate": "2001-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-0",
+    "email": "qa892.test2@mail.org",
+    "snils": "373-731-929 03",
+    "inn": "542522963928",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "3753",
+      "number": "118868",
+      "dateIssued": "2019-05-20T00:00:00.000",
+      "issuerCode": "185-730",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

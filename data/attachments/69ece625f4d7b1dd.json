@@ -1,0 +1,21 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 255,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/sber/link",
+  "body": {
+    "code": 200,
+    "data": {
+      "oids": {
+        "response_type": "code",
+        "client_type": "PRIVATE",
+        "client_id": "f01c3016-edce-40da-8fa2-db5d1641c2ca",
+        "state": "18028068-0125-4819-a09e-7f04fc73c8e6-SBER_ID",
+        "nonce": "bba06ba6c7",
+        "scope": "address_of_actual_residence+address_reg+birthdate+inn+maindoc+mobile+name+openid+place_of_birth+previous_name+snils+email",
+        "redirect_uri": "https%3A%2F%2Fsberbank-insurance.ru%2Fpodushka-bezopasnosti%2Fauth"
+      }
+    },
+    "errors": null,
+    "exception": null
+  }
+}

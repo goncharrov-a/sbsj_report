@@ -1,0 +1,17 @@
+{
+  "status_code": 500,
+  "elapsed_ms": 511,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/cached/user/index",
+  "body": {
+    "code": 500,
+    "data": null,
+    "errors": [
+      {
+        "field": "cachedUser.birthdate",
+        "objectName": "class ru.webrise.sberinsur.safety_pillow.entities.front.user.data.cachedUser.CachedUserWriteData",
+        "defaultMessage": "Возраст застрахованного лица должен быть не менее 18 лет на дату начала действия полиса"
+      }
+    ],
+    "exception": null
+  }
+}

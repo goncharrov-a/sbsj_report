@@ -1,0 +1,22 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 241,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 400,
+    "data": null,
+    "errors": [
+      {
+        "field": "passport.number",
+        "objectName": "policyUserFullWriteData",
+        "defaultMessage": "Поле должно содержать только цифры"
+      },
+      {
+        "field": "passport.number",
+        "objectName": "policyUserFullWriteData",
+        "defaultMessage": "Поле Номер должно содержать 6 цифр"
+      }
+    ],
+    "exception": null
+  }
+}

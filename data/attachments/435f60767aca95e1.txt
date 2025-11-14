@@ -1,1 +1,0 @@
-curl -X GET 'https://sberbank-insurance.ru/podushka-bezopasnosti' -H 'X-Request-Id: 7620ac1d-ce9d-418f-a7b9-5ea72b3e2f9d'

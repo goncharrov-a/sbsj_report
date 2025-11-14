@@ -1,0 +1,54 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 285,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "3255c866-74ab-49fc-8c94-69d01593aeb6",
+      "firstName": "Жанна",
+      "lastName": "Александров",
+      "patronymic": "Васильевна",
+      "disabilityGroup": null,
+      "phone": "+7 (900) 000-00-00",
+      "email": "aqa1@test.ru",
+      "birthDate": "1997-02-22T00:00:00.000",
+      "cachedUser": null,
+      "inn": "747269199271",
+      "drivingLicense": null,
+      "placeOfBirth": null,
+      "snils": "373-731-929 03",
+      "passport": {
+        "id": "0906c975-f2e6-4a80-8071-fe7690d1c744",
+        "serial": "0001",
+        "number": "000001",
+        "dateIssued": "2022-08-11",
+        "issuerCode": "777-777",
+        "statusActive": true,
+        "issuedBy": "ГУ МВД РОССИИ"
+      },
+      "actualAddress": {
+        "id": "d8e93c9e-d64e-482f-8d1a-e38faf873d1d",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "ACTUAL",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "postAddress": {
+        "id": "dcb91eff-e0ba-49b4-af13-b411510b919c",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "POST",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "policy": null,
+      "addresses": null,
+      "tempPolicyUser": null,
+      "externalId": "2f59a1ca-6a8a-4dae-b68c-8abb9456375e",
+      "noPatronymic": false,
+      "dispatcherResponse": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

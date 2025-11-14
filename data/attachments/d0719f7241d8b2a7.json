@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Ольга-Мирон",
+    "lastName": "Анна",
+    "patronymic": "Иван--Иванов",
+    "birthDate": "2001-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa289.test1@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "213187592597",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "8339",
+      "number": "843703",
+      "dateIssued": "2019-11-11T00:00:00.000",
+      "issuerCode": "990-431",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

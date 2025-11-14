@@ -1,0 +1,17 @@
+{
+  "status_code": 500,
+  "elapsed_ms": 640,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/cached/user/index",
+  "body": {
+    "code": 500,
+    "data": null,
+    "errors": [
+      {
+        "field": null,
+        "objectName": "class ru.webrise.sberinsur.safety_pillow.entities.front.user.data.cachedUser.CachedUserWriteData",
+        "defaultMessage": "Ошибка при расчете премии и скидки. Не удалось вычислить премию по договору! Не удалось выполнить расчёт для указанных входных данных!. (Недопустимый срок страхования)"
+      }
+    ],
+    "exception": null
+  }
+}

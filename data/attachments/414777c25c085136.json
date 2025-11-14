@@ -1,0 +1,13 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 417,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/duplicate",
+  "body": {
+    "code": 200,
+    "data": {
+      "success": "ok"
+    },
+    "errors": null,
+    "exception": null
+  }
+}

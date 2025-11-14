@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Сергей-Мирон",
+    "lastName": "Богдан-Мирон",
+    "patronymic": "Анна Николаев",
+    "birthDate": "2001-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa260.test7@mail.org",
+    "snils": "373-731-929 03",
+    "inn": "294787866071",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "9918",
+      "number": "893212",
+      "dateIssued": "2021-09-01T00:00:00.000",
+      "issuerCode": "654-620",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": ""
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}
