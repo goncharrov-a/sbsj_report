@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Арсений",
+    "lastName": "Субботина",
+    "patronymic": "Юлианович",
+    "birthDate": "2006-01-23T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "aqa1@test.ru",
+    "snils": "373-731-929 03",
+    "inn": "185814765869",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "0001",
+      "number": "000001",
+      "dateIssued": "2024-03-10T00:00:00.000",
+      "issuerCode": "777-777",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 1871,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/calculate_amount",
+  "body": {
+    "code": 200,
+    "data": {
+      "rqUID": "62f942b9-9f71-42f6-828f-eeb5b7cc5e29",
+      "rqTm": "2025-11-15T00:27:23+03:00",
+      "availableAmount": "300000",
+      "status": {
+        "code": 200,
+        "message": "Запрос успешно обработан. Рассчитана персональная страховая сумма"
+      },
+      "requestStatus": null,
+      "errorList": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

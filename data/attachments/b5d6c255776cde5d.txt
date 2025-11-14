@@ -1,0 +1,1 @@
+curl -X GET 'https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/calculate_amount' -H 'X-Guid: 62f942b9-9f71-42f6-828f-eeb5b7cc5e29' -H 'X-Request-Id: d191fab4-6ecf-4b1b-af1b-a51fb256ae42'

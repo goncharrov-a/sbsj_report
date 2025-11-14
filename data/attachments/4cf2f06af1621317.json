@@ -1,0 +1,17 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 174,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/cached/user/index",
+  "body": {
+    "code": 400,
+    "data": null,
+    "errors": [
+      {
+        "field": "term",
+        "objectName": "cachedUserWriteData",
+        "defaultMessage": "must not be null"
+      }
+    ],
+    "exception": null
+  }
+}

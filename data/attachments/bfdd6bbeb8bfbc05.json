@@ -1,0 +1,22 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 1762,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/cached/user/index",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "32c7a224-9786-4d8f-92ae-1d48f1eefb88",
+      "calculation": 240.0,
+      "debt": 300000.0,
+      "policyStartDate": "2025-11-16T00:26:50.401141143",
+      "birthDate": "2000-01-01T00:00:00.000",
+      "gender": "M",
+      "isPartnerLink": null,
+      "paymentPeriodicity": "MONTHLY",
+      "extremalSport": true,
+      "term": 10
+    },
+    "errors": null,
+    "exception": null
+  }
+}

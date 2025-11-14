@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Илья-Мирон",
+    "lastName": "Анна Николаев",
+    "patronymic": "Иван--Иванов",
+    "birthDate": "1996-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa364.test9@mail.org",
+    "snils": "373-731-929 03",
+    "inn": "652678501396",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "2463",
+      "number": "961343",
+      "dateIssued": "2012-10-03T00:00:00.000",
+      "issuerCode": "938-465",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}
