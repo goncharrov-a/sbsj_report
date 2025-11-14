@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Егор-Мирон",
+    "lastName": "Елена",
+    "patronymic": "Илья-Мирон",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa845.test2@mail.com",
+    "snils": "373-731-929 03",
+    "inn": "174382041133",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "8194",
+      "number": "783563",
+      "dateIssued": "2024-05-07T00:00:00.000",
+      "issuerCode": "398-118",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": ""
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

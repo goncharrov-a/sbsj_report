@@ -1,0 +1,54 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 602,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "9efa5a07-b546-4e6d-a518-6653db2ce877",
+      "firstName": "Мартын",
+      "lastName": "Веселова",
+      "patronymic": "Юльевна",
+      "disabilityGroup": null,
+      "phone": "+7 (900) 000-00-00",
+      "email": "aqa1@test.ru",
+      "birthDate": "1999-11-26T00:00:00.000",
+      "cachedUser": null,
+      "inn": "578459564665",
+      "drivingLicense": null,
+      "placeOfBirth": null,
+      "snils": "373-731-929 03",
+      "passport": {
+        "id": "74e2615e-3a91-4184-b432-912260cacb37",
+        "serial": "0001",
+        "number": "000001",
+        "dateIssued": "2021-09-18",
+        "issuerCode": "777-777",
+        "statusActive": true,
+        "issuedBy": "ГУ МВД РОССИИ"
+      },
+      "actualAddress": {
+        "id": "53d89018-f167-43c4-b7f1-acaac1e83830",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "ACTUAL",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "postAddress": {
+        "id": "0b678242-4a3d-4eb0-a2f7-f556925cba36",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "POST",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "policy": null,
+      "addresses": null,
+      "tempPolicyUser": null,
+      "externalId": "ba3cdca5-f96e-4193-b484-3d6303a80d26",
+      "noPatronymic": false,
+      "dispatcherResponse": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

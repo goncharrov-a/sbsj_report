@@ -1,0 +1,30 @@
+{
+  "id": null,
+  "firstName": "Юлия-Мирон",
+  "lastName": "Марьяна",
+  "patronymic": "Егор",
+  "birthDate": "2000-11-14T00:00:00.000",
+  "phone": "+7 (900) 000-00-00",
+  "email": "qa656.test6@mail.org",
+  "snils": "373-731-929 03",
+  "inn": "171193034842",
+  "creditInfo": {
+    "years": 1
+  },
+  "passport": {
+    "id": null,
+    "serial": "5475",
+    "number": "532532",
+    "dateIssued": "2017-01-30T00:00:00.000",
+    "issuerCode": "890-614",
+    "issuedBy": "ГУ МВД РОССИИ"
+  },
+  "actualAddress": {
+    "id": null,
+    "fullAddress": "101000, г Москва"
+  },
+  "postAddress": {
+    "id": null,
+    "fullAddress": "101000, г Москва"
+  }
+}

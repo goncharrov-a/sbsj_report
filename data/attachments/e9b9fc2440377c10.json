@@ -1,0 +1,65 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 405,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "133f43ad-5354-44b5-bfa1-4f49966144ce",
+      "firstName": "Марьяна-Мирон",
+      "lastName": "Анна-Мирон",
+      "patronymic": "-Иван",
+      "disabilityGroup": null,
+      "phone": "+7 (900) 000-00-00",
+      "email": "qa912.test8@mail.com",
+      "birthDate": "2000-11-14T00:00:00.000",
+      "cachedUser": {
+        "id": "1c97f349-51cd-4436-ae83-bee59925f73a",
+        "calculation": 334.0,
+        "debt": 486124.0,
+        "policyStartDate": "2025-11-16T00:37:42",
+        "birthDate": null,
+        "gender": "M",
+        "isPartnerLink": null,
+        "paymentPeriodicity": "MONTHLY",
+        "extremalSport": false,
+        "term": 22
+      },
+      "inn": "636054709075",
+      "drivingLicense": null,
+      "placeOfBirth": null,
+      "snils": "373-731-929 03",
+      "passport": {
+        "id": "62be8e7b-8de9-4d3a-83bf-b9b089eff39c",
+        "serial": "3104",
+        "number": "962978",
+        "dateIssued": "2017-01-09",
+        "issuerCode": "577-722",
+        "statusActive": true,
+        "issuedBy": "ГУ МВД РОССИИ"
+      },
+      "actualAddress": {
+        "id": "a2c7bb80-621b-453c-a8c8-607d3d18873f",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "ACTUAL",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "postAddress": {
+        "id": "0ea35a85-5c7f-4ad8-af2d-a99515a1f8e9",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "POST",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "policy": null,
+      "addresses": null,
+      "tempPolicyUser": null,
+      "externalId": null,
+      "noPatronymic": false,
+      "dispatcherResponse": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

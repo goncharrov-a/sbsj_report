@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Юлия Али",
+    "lastName": "Татьяна-Мирон",
+    "patronymic": "Елена-Мирон",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa895.test5@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "3303",
+      "number": "420131",
+      "dateIssued": "2024-10-22T00:00:00.000",
+      "issuerCode": "402-605",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

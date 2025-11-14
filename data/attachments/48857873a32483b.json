@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Ольга Али",
+    "lastName": "Татьяна Николаев",
+    "patronymic": "Юлия",
+    "birthDate": "",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa748.test7@mail.org",
+    "snils": "373-731-929 03",
+    "inn": "932511106941",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "3487",
+      "number": "502647",
+      "dateIssued": "2021-01-13T00:00:00.000",
+      "issuerCode": "473-630",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

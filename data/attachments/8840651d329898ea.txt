@@ -1,0 +1,1 @@
+curl -X POST 'https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/cached/user/index' -H 'X-Request-Id: dbdc5563-eeeb-44eb-9104-95e3c2c2ac1b' -H 'Content-Type: application/json' --data-raw '{"birthDate": "1960-11-14T00:00:00.000", "gender": "M", "debt": 300000, "maxDebt": 6000000, "paymentPeriodicity": "MONTHLY", "term": 10, "extremalSport": true}'

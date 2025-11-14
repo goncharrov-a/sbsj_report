@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Марьяна Али",
+    "lastName": "Никита Николаев",
+    "patronymic": "Ольга",
+    "birthDate": "2025-11-15T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa853.test5@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "336102784536",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "5429",
+      "number": "693564",
+      "dateIssued": "2024-10-20T00:00:00.000",
+      "issuerCode": "279-959",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

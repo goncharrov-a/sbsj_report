@@ -1,0 +1,17 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "passport.serial",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "Поле Серия должно содержать 4 цифр."
+    },
+    {
+      "field": "passport.serial",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "Поле должно содержать только цифры"
+    }
+  ],
+  "exception": null
+}

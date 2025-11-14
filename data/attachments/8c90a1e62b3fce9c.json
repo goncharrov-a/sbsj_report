@@ -1,0 +1,17 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 333,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/cached/user/index",
+  "body": {
+    "code": 400,
+    "data": null,
+    "errors": [
+      {
+        "field": "cachedUser.birthdate",
+        "objectName": "class ru.webrise.sberinsur.safety_pillow.entities.front.user.data.cachedUser.CachedUserWriteData",
+        "defaultMessage": "Возраст не может превышать  65 лет на дату начала действия полиса"
+      }
+    ],
+    "exception": null
+  }
+}

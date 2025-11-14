@@ -1,0 +1,1 @@
+curl -X GET 'https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/sber/link' -H 'X-Guid: 656bf6bd-a6ef-48e0-b311-224e921deace' -H 'X-Request-Id: 16d04347-a56b-4299-8e27-d483f97a1ece'

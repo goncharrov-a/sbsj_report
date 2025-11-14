@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Иван'",
+    "lastName": "Пётр Али",
+    "patronymic": "Никита",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa339.test2@mail.com",
+    "snils": "373-731-929 03",
+    "inn": "951485954064",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "5422",
+      "number": "224443",
+      "dateIssued": "2016-03-23T00:00:00.000",
+      "issuerCode": "146-669",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

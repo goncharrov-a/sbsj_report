@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Илья Николаев",
+    "lastName": "Егор Николаев",
+    "patronymic": "Юлия Николаев",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa799.test2@mail.org",
+    "snils": "373-731-929 03",
+    "inn": null,
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "1506",
+      "number": "225327",
+      "dateIssued": "2023-06-04T00:00:00.000",
+      "issuerCode": "415-196",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

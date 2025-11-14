@@ -1,0 +1,1 @@
+curl -X GET 'https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/check_region?address=101000%2C+%D0%B3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0' -H 'X-Guid: 656bf6bd-a6ef-48e0-b311-224e921deace' -H 'X-Request-Id: a02b40c3-9d69-4a03-b074-93b5ccf18c82'

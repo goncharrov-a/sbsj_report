@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Юлия",
+    "lastName": "Иван Али",
+    "patronymic": "Юлия",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa609.test4@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "12A456789012",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "5679",
+      "number": "911113",
+      "dateIssued": "2024-12-05T00:00:00.000",
+      "issuerCode": "181-906",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

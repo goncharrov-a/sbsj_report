@@ -1,0 +1,1 @@
+curl -X POST 'https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/contract/confirm' -H 'X-Guid: 4070c54c-365a-4cc4-8a53-786d58599f0f' -H 'X-Request-Id: fdc99743-6504-400c-bf60-1d3902264baf' -H 'Content-Type: application/json' --data-raw '{"code": "443123"}'

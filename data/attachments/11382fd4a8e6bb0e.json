@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Юлия",
+    "lastName": "Пётр Николаев",
+    "patronymic": "Сергей-Мирон",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-000",
+    "email": "qa998.test4@mail.com",
+    "snils": "373-731-929 03",
+    "inn": "590211775507",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "4332",
+      "number": "857631",
+      "dateIssued": "2020-08-11T00:00:00.000",
+      "issuerCode": "343-709",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

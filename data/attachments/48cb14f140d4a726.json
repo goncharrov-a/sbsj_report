@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Илья-Мирон",
+    "lastName": "Юлия Али",
+    "patronymic": "Иван--Иванов",
+    "birthDate": "2000-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa432.test9@mail.com",
+    "snils": "373-731-929 03",
+    "inn": "252642564668",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "4873",
+      "number": "985496",
+      "dateIssued": "2020-02-07T00:00:00.000",
+      "issuerCode": "354-510",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}
