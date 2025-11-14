@@ -1,0 +1,54 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 304,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "3fe14db3-6f57-4c3b-b95a-76cf7acf9a63",
+      "firstName": "Юлия-Мирон",
+      "lastName": "Богдан Али",
+      "patronymic": "Егор Али",
+      "disabilityGroup": null,
+      "phone": "+7 (900) 000-00-00",
+      "email": "qa806.test6@mail.ru",
+      "birthDate": "2004-11-14T00:00:00.000",
+      "cachedUser": null,
+      "inn": "825300676908",
+      "drivingLicense": null,
+      "placeOfBirth": null,
+      "snils": "373-731-929 03",
+      "passport": {
+        "id": "b18d06bd-4872-4712-ba5a-a3bf28dc5890",
+        "serial": "5700",
+        "number": "193402",
+        "dateIssued": "2025-06-03",
+        "issuerCode": "538-499",
+        "statusActive": true,
+        "issuedBy": "ГУ МВД РОССИИ"
+      },
+      "actualAddress": {
+        "id": "28ddc181-f81c-4633-b041-fff89f6ce5bd",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "ACTUAL",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "postAddress": {
+        "id": "2ee8155f-3025-4a2a-8f4d-8317c247f373",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "POST",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "policy": null,
+      "addresses": null,
+      "tempPolicyUser": null,
+      "externalId": "c443ad82-08fa-46b4-a658-218d964d3ce5",
+      "noPatronymic": false,
+      "dispatcherResponse": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

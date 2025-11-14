@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Егор Николаев",
+    "lastName": "Сергей Николаев",
+    "patronymic": "-Иван",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa755.test7@mail.com",
+    "snils": "373-731-929 03",
+    "inn": "174724473428",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "4177",
+      "number": "737985",
+      "dateIssued": "2022-04-03T00:00:00.000",
+      "issuerCode": "477-964",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

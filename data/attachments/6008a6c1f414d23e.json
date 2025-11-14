@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "passport.dateIssued",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "От даты рождения до указанной даты прошло менее 14 лет"
+    }
+  ],
+  "exception": null
+}

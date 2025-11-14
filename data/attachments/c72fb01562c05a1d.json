@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Пётр Николаев",
+    "lastName": "Илья Али",
+    "patronymic": "Иван Николаев",
+    "birthDate": null,
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa200.test5@mail.org",
+    "snils": "373-731-929 03",
+    "inn": "388698270263",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "4929",
+      "number": "550397",
+      "dateIssued": "2024-10-08T00:00:00.000",
+      "issuerCode": "283-765",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

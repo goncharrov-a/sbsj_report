@@ -1,0 +1,54 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 288,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 200,
+    "data": {
+      "id": "b60244c7-b880-47b3-a614-c24331a008d9",
+      "firstName": "Таисия",
+      "lastName": "Агафонова",
+      "patronymic": "Бориславович",
+      "disabilityGroup": null,
+      "phone": "+7 (900) 000-00-00",
+      "email": "aqa1@test.ru",
+      "birthDate": "2004-08-18T00:00:00.000",
+      "cachedUser": null,
+      "inn": "229346402319",
+      "drivingLicense": null,
+      "placeOfBirth": null,
+      "snils": "373-731-929 03",
+      "passport": {
+        "id": "c803edf0-8d81-4b0f-a278-c940e995f424",
+        "serial": "0001",
+        "number": "000001",
+        "dateIssued": "2020-07-06",
+        "issuerCode": "777-777",
+        "statusActive": true,
+        "issuedBy": "ГУ МВД РОССИИ"
+      },
+      "actualAddress": {
+        "id": "2e937b14-a7d6-4b69-a27b-282b3834b6f2",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "ACTUAL",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "postAddress": {
+        "id": "7582f8b6-66c5-4cd8-aeb3-703fda5037e1",
+        "fullAddress": "101000, г Москва, г Москва",
+        "typeAddress": "POST",
+        "statusActive": true,
+        "region": "г Москва"
+      },
+      "policy": null,
+      "addresses": null,
+      "tempPolicyUser": null,
+      "externalId": "c9daee80-41ec-41e1-947d-c75dd1d156ed",
+      "noPatronymic": false,
+      "dispatcherResponse": null
+    },
+    "errors": null,
+    "exception": null
+  }
+}

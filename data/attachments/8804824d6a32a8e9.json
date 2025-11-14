@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Марьяна",
+    "lastName": "Елена Али",
+    "patronymic": "Анна Николаев",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa211.test6@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "162522951839",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "3711",
+      "number": "634377",
+      "dateIssued": "2021-09-09T00:00:00.000",
+      "issuerCode": "198-338",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": null
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

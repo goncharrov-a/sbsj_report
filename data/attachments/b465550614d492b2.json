@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": null,
+      "objectName": "class ru.webrise.sberinsur.safety_pillow.web.controllers.api.user.policy.UserController",
+      "defaultMessage": "Проверьте введенный код"
+    }
+  ],
+  "exception": null
+}

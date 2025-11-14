@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "data": {
+    "id": "3fe14db3-6f57-4c3b-b95a-76cf7acf9a63",
+    "firstName": "Елена-Мирон",
+    "lastName": "Пётр Али",
+    "patronymic": "Сергей Али",
+    "disabilityGroup": null,
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa805.test7@mail.org",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "cachedUser": {
+      "id": "c12dae2d-25fe-4a15-8efd-48add4766474",
+      "calculation": 216.0,
+      "debt": 378564.0,
+      "policyStartDate": "2025-11-16T00:25:37",
+      "birthDate": null,
+      "gender": "M",
+      "isPartnerLink": null,
+      "paymentPeriodicity": "MONTHLY",
+      "extremalSport": false,
+      "term": 19
+    },
+    "inn": "086404444834",
+    "drivingLicense": null,
+    "placeOfBirth": null,
+    "snils": "373-731-929 03",
+    "passport": {
+      "id": "b18d06bd-4872-4712-ba5a-a3bf28dc5890",
+      "serial": "4140",
+      "number": "332593",
+      "dateIssued": "2023-12-20",
+      "issuerCode": "285-465",
+      "statusActive": true,
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": "28ddc181-f81c-4633-b041-fff89f6ce5bd",
+      "fullAddress": "101000, г Москва, г Москва",
+      "typeAddress": "ACTUAL",
+      "statusActive": true,
+      "region": "г Москва"
+    },
+    "postAddress": {
+      "id": "2ee8155f-3025-4a2a-8f4d-8317c247f373",
+      "fullAddress": "101000, г Москва, г Москва",
+      "typeAddress": "POST",
+      "statusActive": true,
+      "region": "г Москва"
+    },
+    "policy": null,
+    "addresses": null,
+    "tempPolicyUser": null,
+    "externalId": null,
+    "noPatronymic": false,
+    "dispatcherResponse": null
+  },
+  "errors": null,
+  "exception": null
+}

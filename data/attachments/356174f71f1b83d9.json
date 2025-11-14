@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "passport.dateIssued",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "must be a date in the past or in the present"
+    }
+  ],
+  "exception": null
+}

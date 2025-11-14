@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Илья Али",
+    "lastName": "Пётр Али",
+    "patronymic": "Егор-Мирон",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa625.test3@mail.org",
+    "snils": "373-731-929 03",
+    "inn": "411860865922",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "3471",
+      "number": "345466",
+      "dateIssued": "2024-01-16T00:00:00.000",
+      "issuerCode": "137-999",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

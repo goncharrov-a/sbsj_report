@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "firstName",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "Поле должно содержать буквы только русского алфавита. Допускаются пробелы и следующие символы [- ']"
+    }
+  ],
+  "exception": null
+}

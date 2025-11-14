@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Юлия-Мирон",
+    "lastName": "Богдан Али",
+    "patronymic": "Егор Али",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-00",
+    "email": "qa806.test6@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "825300676908",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "5700",
+      "number": "193402",
+      "dateIssued": "2025-06-03T00:00:00.000",
+      "issuerCode": "538-499",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 351,
+  "url": "https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/full/create",
+  "body": {
+    "code": 400,
+    "data": null,
+    "errors": [
+      {
+        "field": "passport.issuerCode",
+        "objectName": "policyUserFullWriteData",
+        "defaultMessage": "{user.policy.passport.error.issued.code}"
+      }
+    ],
+    "exception": null
+  }
+}

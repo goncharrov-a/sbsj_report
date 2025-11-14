@@ -1,0 +1,17 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "passport.number",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "Поле Номер должно содержать 6 цифр"
+    },
+    {
+      "field": "passport.number",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "Поле должно содержать только цифры"
+    }
+  ],
+  "exception": null
+}

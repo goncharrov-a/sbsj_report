@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "birthDate",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "must not be blank"
+    }
+  ],
+  "exception": null
+}

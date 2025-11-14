@@ -1,0 +1,7 @@
+{
+  "method": "POST",
+  "json": {
+    "query": "Москва",
+    "count": 10
+  }
+}

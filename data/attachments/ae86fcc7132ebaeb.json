@@ -1,0 +1,12 @@
+{
+  "method": "POST",
+  "json": {
+    "birthDate": "2000-01-01T00:00:00.000",
+    "gender": "M",
+    "debt": 300000,
+    "maxDebt": 6000000,
+    "paymentPeriodicity": 8,
+    "term": 10,
+    "extremalSport": true
+  }
+}

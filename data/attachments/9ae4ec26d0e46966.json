@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "postAddress.fullAddress",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "must not be blank"
+    }
+  ],
+  "exception": null
+}

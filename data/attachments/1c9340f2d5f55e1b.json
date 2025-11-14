@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Ольга Николаев",
+    "lastName": "Богдан",
+    "patronymic": "Марьяна",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-000",
+    "email": "qa206.test9@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "656152079832",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "4532",
+      "number": "158132",
+      "dateIssued": "2025-05-11T00:00:00.000",
+      "issuerCode": "760-656",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

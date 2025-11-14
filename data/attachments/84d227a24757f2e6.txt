@@ -1,0 +1,1 @@
+curl -X POST 'https://sberbank-insurance.ru/podushka-bezopasnosti/api/v1/policy/user/duplicate' -H 'X-Guid: b9740153-2160-475e-ba20-fe6141263366' -H 'X-Request-Id: e2048a2d-faf0-4890-acf6-fd03e8e59fac' -H 'Content-Type: application/json' --data-raw '{}'

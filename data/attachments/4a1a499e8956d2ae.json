@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "phone",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "{user.policy.error.phone}"
+    }
+  ],
+  "exception": null
+}

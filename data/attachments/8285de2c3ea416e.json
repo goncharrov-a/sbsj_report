@@ -1,0 +1,33 @@
+{
+  "method": "POST",
+  "json": {
+    "id": null,
+    "firstName": "Татьяна Али",
+    "lastName": "Юлия",
+    "patronymic": "Пётр",
+    "birthDate": "2004-11-14T00:00:00.000",
+    "phone": "+7 (900) 000-00-0",
+    "email": "qa874.test4@mail.ru",
+    "snils": "373-731-929 03",
+    "inn": "456862893875",
+    "creditInfo": {
+      "years": 1
+    },
+    "passport": {
+      "id": null,
+      "serial": "9477",
+      "number": "667569",
+      "dateIssued": "2019-08-17T00:00:00.000",
+      "issuerCode": "843-823",
+      "issuedBy": "ГУ МВД РОССИИ"
+    },
+    "actualAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    },
+    "postAddress": {
+      "id": null,
+      "fullAddress": "101000, г Москва"
+    }
+  }
+}

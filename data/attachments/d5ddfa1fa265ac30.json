@@ -1,0 +1,12 @@
+{
+  "code": 400,
+  "data": null,
+  "errors": [
+    {
+      "field": "passport.issuerCode",
+      "objectName": "policyUserFullWriteData",
+      "defaultMessage": "{user.policy.passport.error.issued.code}"
+    }
+  ],
+  "exception": null
+}
